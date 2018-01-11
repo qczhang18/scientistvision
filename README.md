@@ -1,1 +1,1 @@
-qczhang18-scientistvision.herokuapp.com
+https://qczhang18-scientisitvision.herokuapp.com/
